@@ -1,5 +1,7 @@
 # Resources
 
+## Road Map
+If you are new to coding and overwhelmed by the amount of information here and want a roadmap to learn to code competitively, [click here](https://lucid.app/lucidchart/invitations/accept/inv_f55f22a7-60ea-4b01-87bf-16df6402f961?viewport_loc=275%2C1721%2C1480%2C692%2C0_0)
 ## Websites
 - [GFG](https://www.geeksforgeeks.org/)
 - [LEETCODE POSTS (For interview purposes)](https://www.geeksforgeeks.org/)
