@@ -25,7 +25,7 @@
 ## Recording
 [Link for recording](https://stackedit.io/app#)
 ## Slides
-[Link for slides](https://docs.google.com/presentation/d/1viqAUg0yzKX6Gks-Nli_N8aXRPIQq22CStXhSvOkSx0/edit#slide=id.gf712b992a5_0_61)
+[Link for slides](https://docs.google.com/presentation/d/1viqAUg0yzKX6Gks-Nli_N8aXRPIQq22CStXhSvOkSx0/edit?usp=sharing)
 ## Problem set
 [Link for problem set](https://docs.google.com/document/d/1m0bhe-PNuHzkqeuuhmSTIgKVVtBaB6SgoQdHJ-ZQtyI/edit?usp=sharing)
 ## Solution set
