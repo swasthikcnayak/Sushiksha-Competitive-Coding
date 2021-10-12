@@ -29,4 +29,4 @@
 ## Problem set
 [Link for problem set](https://docs.google.com/document/d/1m0bhe-PNuHzkqeuuhmSTIgKVVtBaB6SgoQdHJ-ZQtyI/edit?usp=sharing)
 ## Solution set
-[Link for solution set](https://stackedit.io/app#)
+[Link for solution set](https://docs.google.com/document/d/1iSPUuBdX0Kdv4ba8SYaqqaWwiFGDJSg0O7qEb_7en2o/edit?usp=sharing)
