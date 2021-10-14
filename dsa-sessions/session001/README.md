@@ -23,8 +23,9 @@
 [loops in c++](https://www.dotnettricks.com/learn/cpp/loop-statements-for-do-while-examples)
 
 ## Recording
-[Link for recording](https://drive.google.com/file/d/1QR6qgui_Xpv535AV0V4jjkJeDpYDsHRF/view?usp=sharing)
-[Link for recording Part 2](https://drive.google.com/file/d/1MMiiVvAFMEOWpDniZl8g9KTf0zCLLoLY/view?usp=sharing)
+[Link for recording part 1](https://drive.google.com/file/d/1QR6qgui_Xpv535AV0V4jjkJeDpYDsHRF/view?usp=sharing)
+
+[Link for recording part 2](https://drive.google.com/file/d/1MMiiVvAFMEOWpDniZl8g9KTf0zCLLoLY/view?usp=sharing)
 ## Slides
 [Link for slides](https://docs.google.com/presentation/d/1viqAUg0yzKX6Gks-Nli_N8aXRPIQq22CStXhSvOkSx0/edit?usp=sharing)
 ## Problem set
