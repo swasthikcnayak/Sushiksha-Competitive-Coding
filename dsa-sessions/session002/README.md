@@ -31,6 +31,16 @@
 
 [Link for recording(Arrays)](https://drive.google.com/file/d/1pg0cZ0UNBz0Bdr9x_kEvC-Ft9PMnecVg/view?usp=sharing)
 
+[Link for recording(Characters and string)](https://drive.google.com/file/d/1zMyCYQuyBkLR1IyKJ3JBWgPdVUU5OepN/view?usp=sharing)
+
+//during the session, substr function was told wrong,
+the substr method goes the following way
+
+str.substr(start Index, length of substring)
+
+start Index is the index from where the substring should start
+length of substring - the length of the substring you need, starting from the start index
+
 ## Slides
 
 [Link for slides(Arrays)](https://docs.google.com/presentation/d/1YNI1Q2LA-P-8bBCNvm0PP_VIYdrlzVFBUN3Hjai2mvg/edit?usp=sharing)
