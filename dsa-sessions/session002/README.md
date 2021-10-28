@@ -1,4 +1,4 @@
-# Welcome to Session 2 (Arrays and String)
+# Welcome to Session 2 (Arrays and String, Pointers)
 
 # Table of contents
 
@@ -34,6 +34,7 @@
 ## Slides
 
 [Link for slides(Arrays)](https://docs.google.com/presentation/d/1YNI1Q2LA-P-8bBCNvm0PP_VIYdrlzVFBUN3Hjai2mvg/edit?usp=sharing)
+[Link for slides(Pointers)](https://docs.google.com/presentation/d/1788kWiRXiD1kMEOVRVTdTnB7t10czSnQlmQJxDzLU9M/edit?usp=sharing)
 
 ## Problem set
 
