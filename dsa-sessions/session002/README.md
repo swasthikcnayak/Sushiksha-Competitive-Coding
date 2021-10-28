@@ -10,6 +10,11 @@
 6.  Characters
 7.  ASCII
 8.  Strings
+9.  Pointers
+10. Reference and Dereference operators
+11. Chain of pointers
+12. Arrays and Pointers
+13. Matrices and Pointers
 
 ## Additional information
 
