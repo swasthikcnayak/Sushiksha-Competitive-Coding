@@ -57,4 +57,4 @@ length of substring - the length of the substring you need, starting from the st
 
 ## Solution set
 
-[Link for solution set - not updated](https://docs.google.com/document/d/179rIYWCiJ_CzyO6kQWGpcG4ArshfEh_Oexq7U3lv2FM/edit?usp=sharing)
+[Link for solution set - incomplete](https://docs.google.com/document/d/179rIYWCiJ_CzyO6kQWGpcG4ArshfEh_Oexq7U3lv2FM/edit?usp=sharing)

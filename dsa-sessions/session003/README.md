@@ -30,8 +30,8 @@
 
 ## Problem set
 
-[Link for problem set](https://docs.google.com/document/d/1RoayCJUhjHNGwKSCkqSQz0w-9awk7MbUXokncpSYe_c/edit?usp=sharing)
+[Link for problem set - not ready yet](https://docs.google.com/document/d/1RoayCJUhjHNGwKSCkqSQz0w-9awk7MbUXokncpSYe_c/edit?usp=sharing)
 
 ## Solution set
 
-[Link for solution set - not updated](https://docs.google.com/document/d/1nJ1Vl5nzoKdM1qOJxQENRSUH6fMb_lf0K0LEHpaYXZs/edit?usp=sharing)
+[Link for solution set - incomplete](https://docs.google.com/document/d/1nJ1Vl5nzoKdM1qOJxQENRSUH6fMb_lf0K0LEHpaYXZs/edit?usp=sharing)
