@@ -35,6 +35,8 @@
 ## Recording
 
 [Link for recording(Arrays)](https://drive.google.com/file/d/1pg0cZ0UNBz0Bdr9x_kEvC-Ft9PMnecVg/view?usp=sharing)
+[Link for recording(Character and Strings)](https://drive.google.com/file/d/1zMyCYQuyBkLR1IyKJ3JBWgPdVUU5OepN/view?usp=sharing)
+[Link for recording(Pointers)](https://drive.google.com/file/d/1hkI96MMIJHuXwKTN0FZZx5_ML2O5J4Mo/view?usp=sharing)
 
 ## Slides
 
