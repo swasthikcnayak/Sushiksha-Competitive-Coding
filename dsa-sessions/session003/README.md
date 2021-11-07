@@ -1,4 +1,4 @@
-# Welcome to Session 2 (Arrays and String, Pointers)
+# Welcome to Session 2 (Functions, struct and recursion)
 
 # Table of contents
 
