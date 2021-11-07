@@ -1,4 +1,4 @@
-# Welcome to Session 2 (Arrays and String)
+# Welcome to Session 2 (Arrays and String, Pointers)
 
 # Table of contents
 
@@ -10,6 +10,11 @@
 6.  Characters
 7.  ASCII
 8.  Strings
+9.  Pointers
+10. Reference and Dereference operators
+11. Chain of pointers
+12. Arrays and Pointers
+13. Matrices and Pointers
 
 ## Additional information
 
@@ -30,6 +35,8 @@
 ## Recording
 
 [Link for recording(Arrays)](https://drive.google.com/file/d/1pg0cZ0UNBz0Bdr9x_kEvC-Ft9PMnecVg/view?usp=sharing)
+[Link for recording(Character and Strings)](https://drive.google.com/file/d/1zMyCYQuyBkLR1IyKJ3JBWgPdVUU5OepN/view?usp=sharing)
+[Link for recording(Pointers)](https://drive.google.com/file/d/1hkI96MMIJHuXwKTN0FZZx5_ML2O5J4Mo/view?usp=sharing)
 
 [Link for recording(Characters and string)](https://drive.google.com/file/d/1zMyCYQuyBkLR1IyKJ3JBWgPdVUU5OepN/view?usp=sharing)
 
@@ -43,7 +50,8 @@ length of substring - the length of the substring you need, starting from the st
 
 ## Slides
 
-[Link for slides(Arrays)](https://docs.google.com/presentation/d/1YNI1Q2LA-P-8bBCNvm0PP_VIYdrlzVFBUN3Hjai2mvg/edit?usp=sharing)
+[Link for slides(Arrays)](https://docs.google.com/presentation/d/1YNI1Q2LA-P-8bBCNvm0PP_VIYdrlzVFBUN3Hjai2mvg/edit?usp=sharing)</br>
+[Link for slides(Pointers)](https://docs.google.com/presentation/d/1788kWiRXiD1kMEOVRVTdTnB7t10czSnQlmQJxDzLU9M/edit?usp=sharing)
 
 ## Problem set
 
