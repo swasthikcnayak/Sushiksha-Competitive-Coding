@@ -1,4 +1,4 @@
-# Welcome to Session 2 (Functions, struct and recursion)
+# Welcome to Session 3 (Functions, struct and recursion)
 
 # Table of contents
 
