@@ -10,15 +10,15 @@
 
 ## Additional information
 
-[Functions](https://en.cppreference.com/w/cpp/language/declarations)
+[Functions](https://www.javatpoint.com/cpp-functions)
 
-[Structures](https://en.cppreference.com/w/cpp/language/declarations)
+[Structures](https://www.geeksforgeeks.org/structures-in-cpp/)
 
-[Passs By Value](https://en.cppreference.com/w/cpp/language/declarations)
+[Passs By Value](https://www.learncpp.com/cpp-tutorial/passing-arguments-by-value/)
 
-[Pass By Reference](https://en.cppreference.com/w/cpp/language/declarations)
+[Pass By Reference](https://www.learncpp.com/cpp-tutorial/passing-arguments-by-reference/)
 
-[Recursion](https://en.cppreference.com/w/cpp/language/declarations)
+[Recursion](https://favtutor.com/blogs/recursion-cpp)
 
 ## Recording
 
