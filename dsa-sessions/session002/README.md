@@ -38,8 +38,6 @@
 [Link for recording(Character and Strings)](https://drive.google.com/file/d/1zMyCYQuyBkLR1IyKJ3JBWgPdVUU5OepN/view?usp=sharing)
 [Link for recording(Pointers)](https://drive.google.com/file/d/1hkI96MMIJHuXwKTN0FZZx5_ML2O5J4Mo/view?usp=sharing)
 
-[Link for recording(Characters and string)](https://drive.google.com/file/d/1zMyCYQuyBkLR1IyKJ3JBWgPdVUU5OepN/view?usp=sharing)
-
 //during the session, substr function was told wrong,
 the substr method goes the following way
 
@@ -51,7 +49,7 @@ length of substring - the length of the substring you need, starting from the st
 ## Slides
 
 [Link for slides(Arrays)](https://docs.google.com/presentation/d/1YNI1Q2LA-P-8bBCNvm0PP_VIYdrlzVFBUN3Hjai2mvg/edit?usp=sharing)</br>
-[Link for slides(Pointers)](https://docs.google.com/presentation/d/1788kWiRXiD1kMEOVRVTdTnB7t10czSnQlmQJxDzLU9M/edit?usp=sharing)
+[Link for slides(Pointers)](https://docs.google.com/presentation/d/1YNI1Q2LA-P-8bBCNvm0PP_VIYdrlzVFBUN3Hjai2mvg/edit?usp=sharing)
 
 ## Problem set
 
